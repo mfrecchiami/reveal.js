@@ -27,7 +27,7 @@ body:before {
   z-index: 1; }
 
 .reveal:after {
-  content: 'Michela Frecchiami @Nebulab - A new identity for Solidus. | All Hands 2019';
+  content: 'Michela Frecchiami @Nebulab - A new identity for Solidus. | Demo Friday 05/24/2019';
   position: absolute;
   top: 3%;
   left: 5%;
